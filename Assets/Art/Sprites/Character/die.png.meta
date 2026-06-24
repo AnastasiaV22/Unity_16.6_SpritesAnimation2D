@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d91e4791bbaef1a4c9a85755eb865a2a
+guid: c3388442f648bfb4098f7f84c08a656b
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,127 +110,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: idle_0
+      name: die_0
       rect:
         serializedVersion: 2
-        x: 45
-        y: 13
-        width: 40
-        height: 97
-      alignment: 9
-      pivot: {x: 0.35, y: 0}
+        x: 22
+        y: 16
+        width: 48
+        height: 82
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b37cbac6311f75f4994c31403d97cc3a
-      internalID: 322275570
+      spriteID: 468e817053fd9c84cb474c3a904c5430
+      internalID: 503475156
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_1
+      name: die_1
       rect:
         serializedVersion: 2
-        x: 183
-        y: 13
-        width: 40
-        height: 97
-      alignment: 9
-      pivot: {x: 0.35, y: 0}
+        x: 158
+        y: 16
+        width: 53
+        height: 79
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 93f41c443aee9774289428bc3279699a
-      internalID: -1181534913
+      spriteID: 4e5a70ee837910245a4e5ba12634bfd4
+      internalID: -648144217
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_2
+      name: die_2
       rect:
         serializedVersion: 2
-        x: 319
-        y: 13
-        width: 40
-        height: 97
-      alignment: 9
-      pivot: {x: 0.35, y: 0}
+        x: 297
+        y: 16
+        width: 60
+        height: 77
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5338f889425236408fdc52231bcd314
-      internalID: 1132576190
+      spriteID: d84eadcc9658f704793d129d969bbaf5
+      internalID: 1392929922
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_3
+      name: die_3
       rect:
         serializedVersion: 2
-        x: 455
-        y: 13
-        width: 40
-        height: 97
-      alignment: 9
-      pivot: {x: 0.35, y: 0}
+        x: 433
+        y: 16
+        width: 96
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86670c3ef1d734649b0afa91d5cb977b
-      internalID: 1221403511
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: idle_4
-      rect:
-        serializedVersion: 2
-        x: 590
-        y: 13
-        width: 40
-        height: 97
-      alignment: 9
-      pivot: {x: 0.35, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 37d03f263ad903446a41f2108b80c1bc
-      internalID: 1627033698
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: idle_5
-      rect:
-        serializedVersion: 2
-        x: 726
-        y: 13
-        width: 40
-        height: 97
-      alignment: 9
-      pivot: {x: 0.35, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 798b5f21c93409f4dad4d88cba429072
-      internalID: -1013802107
+      spriteID: b3053b9f918f06a489d66117ee56d7f9
+      internalID: -885532720
       vertices: []
       indices: 
       edges: []
@@ -246,12 +204,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      idle_0: 322275570
-      idle_1: -1181534913
-      idle_2: 1132576190
-      idle_3: 1221403511
-      idle_4: 1627033698
-      idle_5: -1013802107
+      die_0: 503475156
+      die_1: -648144217
+      die_2: 1392929922
+      die_3: -885532720
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
